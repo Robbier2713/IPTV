@@ -1,0 +1,105 @@
+#EXTM3U
+
+
+#EXTINF:0,group-title="DTV",BBC One HD - Predator X - WORKS HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94334
+
+#EXTINF:0,group-title="DTV",BBC News FHD - Predator X - WORKS FULL HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94340
+
+#EXTINF:0,group-title="DTV",BBC 2 - Romanija
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/671
+
+#EXTINF:0,group-title="DTV",BBC 2 SD - Predator X - WORKS SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94336
+
+#EXTINF:0,group-title="DTV",ITV1 SD (1) - Predator X - WORKS SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94346
+
+#EXTINF:0,group-title="DTV",iTV 1 SD (2) - Romanija - WORKS SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/731
+
+#EXTINF:0,group-title="DTV",iTV 2 HD (1) - Romanija - WORKS HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/732
+
+#EXTINF:0,group-title="DTV",ITV2 SD (2) - Predator X - WORKS SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94349
+
+#EXTINF:0,group-title="DTV",iTV 3 - Romanija
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/733
+
+#EXTINF:0,group-title="DTV",ITV3 SD - Predator X - WORKS SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94352
+
+#EXTINF:0,group-title="DTV",ITV4 SD - Predator X - WORKS SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94355
+
+#EXTINF:0,group-title="DTV",Channel 4 SD - Romanija - WORKS SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/693
+
+#EXTINF:0,group-title="DTV",Channel 5 HD - Romanija - WORKS HD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/694
+
+#EXTINF:0,group-title="Sport",*****SPORT**********
+
+#EXTINF:0,group-title="Sport",Cartoon Network - Romanija
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/685
+
+#EXTINF:0,group-title="Sport",Comedy Central - Romanija - WORKS
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/699
+
+#EXTINF:0,group-title="Sport",E4
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/713
+
+#EXTINF:0,group-title="Sport",Eurosport 1 FHD - Romanija - WORKS FHD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/717
+
+#EXTINF:0,group-title="Sport",Eurosport 2 FHD - Romanija - WORKS FHD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/718
+
+#EXTINF:0,group-title="Sport",Fightbox
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/719
+
+#EXTINF:0,group-title="Sport",National Geographic
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/746
+
+#EXTINF:0,group-title="Sport",*****BT********
+
+#EXTINF:0,group-title="BT",BT Sport 1 FHD Predator X - WORKS FULLHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122183
+
+#EXTINF:0,group-title="BT",BT Sport 2 FHD Predator X - WORKS FULLHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122181
+
+#EXTINF:0,group-title="BT",BT Sport 3( 1) FHD Predator X - WORKS FULLHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122182
+
+#EXTINF:0,group-title="BT",BT Sport 3 (2) FHD Predator X - WORKS FULLHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/122185
+
+#EXTINF:0,group-title="BT",BT Sport ESPN - Romanija
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/683
+
+
+#EXTINF:0,group-title="Sport",*****SKY********
+
+#EXTINF:0,group-title="Sky",Sky 1 FHD Predator X - WORKS FULLHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94423
+
+#EXTINF:0,group-title="Sky",Sky News SD (1) - ROMANIJA - WORKS SD
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/785
+
+#EXTINF:0,group-title="Sky",Sky News FHD Predator X - WORKS FULLHD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/94383
+
+#EXTINF:0,group-title="Sky",Sky Sport 1 - ROMANIJA
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/793
+
+#EXTINF:0,group-title="Sky",Sky Sport F1 HD - ROMANIJA - WORKS HD
+http://tv.romanija.xyz:8080/22maky/test111/474
+
+#EXTINF:0,group-title="Sky",Sky Sport Football - ROMANIJA
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/790
+
+#EXTINF:0,group-title="Sky",Sky Sport Arena - ROMANIJA
+http://tv.romanija.xyz:8080/22vahid99593/razmjena114352/792
